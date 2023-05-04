@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>615709146253-dariklct96h32cchfjre0dslnhdflm3i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.615709146253-dariklct96h32cchfjre0dslnhdflm3i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAK0rAVShRHNJ0rE78eiagp-wIMMclUf60</string>
+	<key>GCM_SENDER_ID</key>
+	<string>615709146253</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kalkulatorUas</string>
+	<key>PROJECT_ID</key>
+	<string>kalkulator-uas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kalkulator-uas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:615709146253:ios:067c597fe3c863fc6ef6c4</string>
+</dict>
+</plist>

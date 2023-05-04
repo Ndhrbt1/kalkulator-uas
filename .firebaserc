@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "kalkulator-uas"
+  },
+  "targets": {
+    "kalkulator-uas": {
+      "hosting": {
+        "a": [
+          "kalkulator-uas"
+        ],
+        "b": [
+          "uas-annisa-indah"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
